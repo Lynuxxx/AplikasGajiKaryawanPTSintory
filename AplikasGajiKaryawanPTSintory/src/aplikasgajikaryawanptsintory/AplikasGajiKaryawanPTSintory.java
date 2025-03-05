@@ -5,13 +5,10 @@
 package aplikasgajikaryawanptsintory;
 
 
-//  KODE TAMBAHAN
+
 import view.FormUtama;
 
-/**
- *
- * @author Bagus Maulana
- */
+
 public class AplikasGajiKaryawanPTSintory {
     private final static  FormUtama formUtama = new FormUtama();
 

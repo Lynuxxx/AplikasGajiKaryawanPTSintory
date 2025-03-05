@@ -7,10 +7,7 @@ package view;
 import java.awt.Dimension;
 import java.awt.Toolkit;
 
-/**
- *
- * @author Bagus Maulana
- */
+ 
 public class FormUtama extends javax.swing.JFrame {
 
     /**
@@ -18,7 +15,7 @@ public class FormUtama extends javax.swing.JFrame {
      */
     public FormUtama() {
         initComponents();
-//        KODE TAMBAHAN
+ 
             setUkuranLokasiFrame(0.8, true); 
     }
 
@@ -30,7 +27,7 @@ public class FormUtama extends javax.swing.JFrame {
     @SuppressWarnings("unchecked")
  
     
-    //    KODE TAMBAHAN
+    
     private void setEnableMenu(boolean aktif) {
         masterDataMenu.setEnabled(aktif);
         transaksiMenu.setEnabled(aktif);
