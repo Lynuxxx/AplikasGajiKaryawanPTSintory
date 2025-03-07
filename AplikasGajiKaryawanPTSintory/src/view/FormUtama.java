@@ -68,6 +68,7 @@ public class FormUtama extends javax.swing.JFrame {
         jMenuItem1.setText("jMenuItem1");
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Aplikasi  Gaji Karyawan PT Sintory ");
 
         javax.swing.GroupLayout mdiDesktopPaneLayout = new javax.swing.GroupLayout(mdiDesktopPane);
         mdiDesktopPane.setLayout(mdiDesktopPaneLayout);
@@ -146,9 +147,6 @@ public class FormUtama extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    
-
-    
     
     private void keluarMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_keluarMenuItemActionPerformed
         // TODO add your handling code here:
