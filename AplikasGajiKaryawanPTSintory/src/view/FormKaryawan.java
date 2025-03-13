@@ -52,7 +52,7 @@ public class FormKaryawan extends javax.swing.JInternalFrame {
 
         setTitle("Master Data Karyawan");
 
-        TopPanel.setBackground(new java.awt.Color(102, 255, 204));
+        TopPanel.setBackground(new java.awt.Color(204, 204, 255));
         TopPanel.setBorder(javax.swing.BorderFactory.createTitledBorder("Data Karyawan"));
 
         jLabel1.setText("KTP");
@@ -129,7 +129,7 @@ public class FormKaryawan extends javax.swing.JInternalFrame {
                 .addContainerGap(45, Short.MAX_VALUE))
         );
 
-        BottomPanel.setBackground(new java.awt.Color(255, 153, 153));
+        BottomPanel.setBackground(new java.awt.Color(153, 255, 153));
 
         simpanButton.setText("Simpan");
         simpanButton.addActionListener(new java.awt.event.ActionListener() {

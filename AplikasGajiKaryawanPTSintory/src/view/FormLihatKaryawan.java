@@ -51,7 +51,7 @@ public class FormLihatKaryawan extends javax.swing.JDialog {
             }
         });
 
-        jPanel1.setBackground(new java.awt.Color(102, 255, 153));
+        jPanel1.setBackground(new java.awt.Color(204, 204, 255));
         jPanel1.setBorder(javax.swing.BorderFactory.createTitledBorder("Data Karyawan"));
 
         karyawanTable.setModel(new javax.swing.table.DefaultTableModel(
