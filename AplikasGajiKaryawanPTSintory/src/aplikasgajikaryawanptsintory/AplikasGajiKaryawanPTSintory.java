@@ -4,10 +4,7 @@
  */
 package aplikasgajikaryawanptsintory;
 
-
-
 import view.FormUtama;
-
 
 public class AplikasGajiKaryawanPTSintory {
     private final static  FormUtama formUtama = new FormUtama();
@@ -16,10 +13,8 @@ public class AplikasGajiKaryawanPTSintory {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        
-//        KODE TAMBAHAN
+        // TODO code application logic here        
             formUtama.setVisible(true);
     }
-    
+
 }
